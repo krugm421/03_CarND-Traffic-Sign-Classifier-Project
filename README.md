@@ -56,11 +56,11 @@ Also, to get a better idea on the distribution over the 43 possible labels here 
 ### Design and Test a Model Architecture
 
 #### 1. Preprocessing
-Preprocessing involved normalizing all images to have 
+Preprocessing involved initially normalizing all images to have 
 * Zero mean
 * Values between -1 and 1
 
-This can be achieved by `(img - 128)/128`.
+This can be achieved by `(img - 128)/128`. This was done to weight every input feature (in case of an image each pixel) the same way which should increase the convergence speed during leaning. 
 
 #### 2. Model architecture
 My initial model follows the LeNet architecture consists of the following layers:
