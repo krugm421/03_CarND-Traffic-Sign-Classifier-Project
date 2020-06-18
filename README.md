@@ -12,10 +12,10 @@
 [pic4]: ./sampleImgs/pic4.png "Traffic Sign 4"
 [pic5]: ./sampleImgs/pic5.png "Traffic Sign 5"
 [histogram]: ./sampleImgs/histogram.png "Histogram"
-[webpic1]: ./GermanTrafficSigns/pic1.png "Traffic Sign 1"
-[webpic2]: ./GermanTrafficSigns/pic2.png "Traffic Sign 2"
-[webpic3]: ./GermanTrafficSigns/pic3.png "Traffic Sign 3"
-[webpic4]: ./GermanTrafficSigns/pic4.png "Traffic Sign 4"
+[webpic1]: ./GermanTrafficSigns/pic1.PNG "Traffic Sign 1"
+[webpic2]: ./GermanTrafficSigns/pic2.PNG "Traffic Sign 2"
+[webpic3]: ./GermanTrafficSigns/pic3.PNG "Traffic Sign 3"
+[webpic4]: ./GermanTrafficSigns/pic4.PNG "Traffic Sign 4"
 [webpic5]: ./GermanTrafficSigns/pic5.png "Traffic Sign 5"
 
 
