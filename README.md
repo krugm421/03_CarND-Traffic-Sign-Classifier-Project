@@ -18,13 +18,9 @@
 [webpic4]: ./GermanTrafficSigns/pic4.png "Traffic Sign 4"
 [webpic5]: ./GermanTrafficSigns/pic5.png "Traffic Sign 5"
 
-## Rubric Points
-### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
 
 ---
 ### Overview
-
-#### 1. Provide a Writeup / README that includes all the rubric points and how you addressed each one. You can submit your writeup as markdown or pdf. You can use this template as a guide for writing the report. The submission includes the project code.
 
 Goal of this project was to use convolutional neural networks to classify traffic signs. This implied the designing the architecture of the net with tensorflow, training it with a given set of german traffic signs and testing it with a test data set and also images from the Internet.
 
